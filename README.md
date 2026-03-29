@@ -56,6 +56,14 @@ python main.py --feature "Create a function to validate email addresses"
 * Modular architecture
 * Extensible with tools (e.g., code execution)
 
+* * Code execution validation
+* UI dashboard
+
+## Resources
+GROQ API Key: https://console.groq.com/keys
+OPENAI API Key: https://platform.openai.com/login
+GITHUB Access Token: https://github.com/settings/tokens
+
 ## Future Improvements
 
 * GitHub PR automation
